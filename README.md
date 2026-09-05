@@ -14,7 +14,7 @@ A collection of custom JavaScript automation and utility scripts designed to spe
   2. Run the script. A grey backdrop will be generated around them with the proper name.
 
 ### 2. `Molty_BG_Group_cleanV2.js` — Background Cleanup & Master Setup
-* **What it does:** Streamlines background setup by generating a `BG_Master-P` PEG, organizing layers, duplicating drawings with `-bg` suffixes, and purging unexposed cels.
+* **What it does:** Streamlines background setup (import psd) by generating a `BG_Master-P` PEG, organizing layers, duplicating drawings with `-bg` suffixes, and purging unexposed cels.
 * **How to use (What to select):**
   1. Select the background drawing nodes (`READ`) or groups (`GROUP`) in your Node View.
   2. Run the script to automatically build the hierarchy and clean unused frames.
