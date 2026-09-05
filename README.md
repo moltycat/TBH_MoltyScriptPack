@@ -1,4 +1,5 @@
 # TBH_MoltyScriptPack
+[Русская Версия Readme](README_RU.md)
 A collection of custom JavaScript automation and utility scripts designed to speed up rigging, animation layout, and cleanup workflows in **Toon Boom Harmony**.
 ---
 
