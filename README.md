@@ -26,7 +26,7 @@ A collection of custom JavaScript automation and utility scripts designed to spe
 * **What it does:** Intelligently renames selected Pegs, Composites, and Groups based on connected drawing layers or hierarchy naming conventions.
 * **How to use (What to select):**
   1. Select the drawing nodes, composites, pegs, or groups you want to rename.
-  2. Run the script—it detects whether drawings are present and applies standard naming (`C-`, `-P`, `Def-`).
+  2. Run the script—it detects whether drawings are present and applies standard naming for other nodes (`C-`, `-P`, `Def-`).
 
 ### 5. `Molty_xPivot_to_zero.js` — Center X-Pivot
 * **What it does:** Aligns the X-axis pivot point to `0` while maintaining the current Y-axis pivot for selected Pegs and Read nodes.
